@@ -20,21 +20,21 @@ Objectives:
  
  Write and test a MASM program to perform the following tasks:
  
-    1.Display the program title and programmer’s name.
+    1. Display the program title and programmer’s name.
     
-     2.Get the user’s name, and greet the user.
+    2. Get the user’s name, and greet the user.
      
-     3.Display instructions for the user.
+    3. Display instructions for the user.
      
-     4.Repeatedly prompt the user to enter a number.  
+    4. Repeatedly prompt the user to enter a number.  
       
           Validate the user input to be in [-100, -1] (inclusive).  
           
           Count and accumulate the valid usernumbers until a non-negative number is entered.  (The non-negativenumber is discarded.)
           
-      5.Calculate the (rounded integer) average of the negative numbers.
+     5. Calculate the (rounded integer) average of the negative numbers.
       
-      6.Display:
+     6. Display:
       
           i.the number of negative numbers entered(Note: if no negative numbers were entered, display a special message and skip to iv.)
           
