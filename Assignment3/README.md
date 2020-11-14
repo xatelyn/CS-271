@@ -17,9 +17,7 @@ Objectives:
     6. Implementing control structures (decision, loop, procedure)
     
  Description:
- 
- Write and test a MASM program to perform the following tasks:
- 
+  
     1. Display the program title and programmer’s name.
     
     2. Get the user’s name, and greet the user.
