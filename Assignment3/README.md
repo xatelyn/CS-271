@@ -2,7 +2,7 @@ CS 271 Computer Architecture and Assembly Language
 
 Programming Assignment #3
 
-Objectives:more practice with
+Objectives:
 
     1. Implementing data validation
     
