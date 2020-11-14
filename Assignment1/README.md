@@ -1,5 +1,7 @@
 CS 271 Computer Architecture and Assembly Language
+
 Programming Assignment #1
+
 Objectives:
   1.Introduction to MASM assembly language
   2.Defining variables (integer and string)
